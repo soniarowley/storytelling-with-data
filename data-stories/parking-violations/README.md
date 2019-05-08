@@ -24,8 +24,6 @@ In "violations-map," running cells whose last line contains a single 'm' will ge
 
 ## Contributing
 
-Briefly describe how other people could build on your work. For example, you might have ideas for sections of your notebook that could use some cleaning up or debugging, or you might have ideas for follow-up analyses. Also acknowledge any collaborations (e.g. other students you consulted for this assignment). 
-
 We got the inspiration for this visualization from: https://www.reddit.com/r/dataisbeautiful/comments/anvc7v/oc_visualizing_all_parking_violations_in_los/.  
 Just as Steve Bottos’ above visualization inspired our current visualization, it also provides inspiration for future directions we could take this analysis. 
 
